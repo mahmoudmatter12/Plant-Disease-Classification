@@ -1,0 +1,14 @@
+/MachinLearningModels/venv
+/MachinLearningModels/venv/*
+/MachinLearningModels/venv/
+/MachinLearningModels/venv/lib/
+/MachinLearningModels/venv/lib/python3.10
+/MachinLearningModels/venv/lib/python3.10/site-packages
+/MachinLearningModels/venv/lib/python3.10/site-packages/
+/MachinLearningModels/venv/lib/python3.10/site-packages/kagglehub
+/MachinLearningModels/venv/lib/python3.10/site-packages/numpy
+/MachinLearningModels/venv/lib/python3.10/site-packages/tensorflow
+/MachinLearningModels/venv/lib/python3.10/site-packages/Pillow
+/MachinLearningModels/venv/lib/python3.10/site-packages/tqdm
+/MachinLearningModels/venv/lib/python3.10/site-packages/pyyaml
+./MachinLearningModels/venv

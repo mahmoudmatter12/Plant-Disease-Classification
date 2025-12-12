@@ -1,0 +1,1 @@
+# nextJs ui for Plant Disease Classification
